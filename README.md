@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AA2CF7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Luana!;I'm+20+years+old;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=AA2CF7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Luana!;I'm+20+years+old!" alt="Typing SVG" /></a>
+</div>
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
